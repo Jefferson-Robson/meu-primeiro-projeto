@@ -1,1 +1,1 @@
-# meu-primeiro-projeto
+"Agora estou editando diretamente do VS Code!"
