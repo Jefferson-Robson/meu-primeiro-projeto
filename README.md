@@ -1,1 +1,1 @@
-"Agora estou editando diretamente do VS Code!"
+"Agora estou editando diretamente do VS Code parte 2"
